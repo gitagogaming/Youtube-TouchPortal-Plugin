@@ -20,9 +20,15 @@
   - [Bugs and Support](#bugs-and-suggestion)
   
 # Description
+You have two ways to connect to your live streams. 
+1) Use an Action which displayes a pop up window with all your live streams that may be available.
+![image](https://user-images.githubusercontent.com/76603653/185692869-82426ac8-9bad-47f8-9ab9-25090a19e93e.png)
+
+OR
+
+2) Turn on Auto-Connect and the plugin will automatically connect to any live stream that you have. 
 
 
-Youtube Plugin for TouchPortal - Created by yours truly.
 
 ## Settings Overview
 | Read-only | Type | Default Value |
