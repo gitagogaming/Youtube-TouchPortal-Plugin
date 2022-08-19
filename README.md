@@ -213,13 +213,13 @@ Default: <b></b> Possible choices: ['On', 'Off']</li>
 | .state.NewSponsor.amount | YouTube: New Sponsor - Amount |  |   |
 </details>
 
-<br>
+
 # FAQ
- ** Q)** How do I connect?
-**A)** You have two ways to connect to your live streams. 
-• Use an Action which displayes a pop up window with all your live streams that may be available.
-![image](https://user-images.githubusercontent.com/76603653/185692869-82426ac8-9bad-47f8-9ab9-25090a19e93e.png)
-• Turn On Auto Connect and it will connect to the any live stream you have available.
+Q) How do I connect?
+A) You have two ways to connect to your live streams. 
+  • Use an Action which displayes a pop up window with all your live streams that may be available.
+  ![image](https://user-images.githubusercontent.com/76603653/185692869-82426ac8-9bad-47f8-9ab9-25090a19e93e.png)
+  • Turn On Auto Connect and it will connect to the any live stream you have available.
 
 
 # Bugs and Suggestion
