@@ -20,7 +20,7 @@
   
 # Description
 
-This documentation generated for Youtube Plugin V100 with [Python TouchPortal SDK](https://github.com/KillerBOSS2019/TouchPortal-API).
+Youtube Plugin for TouchPortal - Created by yours truly.
 
 ## Settings Overview
 | Read-only | Type | Default Value |
@@ -202,6 +202,4 @@ Default: <b></b> Possible choices: ['On', 'Off']</li>
 Open an issue on github or join offical [TouchPortal Discord](https://discord.gg/MgxQb8r) for support.
 
 
-# License
-This plugin is licensed under the [GPL 3.0 License] - see the [LICENSE](LICENSE) file for more information.
 
