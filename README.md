@@ -19,7 +19,7 @@
         - [SuperChat Event](#tp.plugin.youtube.superChatstates)
         - [New Sponsor Event](#tp.plugin.youtube.newSponsorstates)
   - [Bugs and Support](#bugs-and-suggestion)
-  - [FAQ](#faq
+  - [FAQ](#faq)
   
 # Description
 
