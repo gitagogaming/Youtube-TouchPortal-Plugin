@@ -221,6 +221,6 @@ Open an issue on github or join offical [TouchPortal Discord](https://discord.gg
 # FAQ
 ### Q) How do I connect?
 **A)** You have two ways to connect to your live streams. 
-1) Use an Action which displayes a pop up window with all your live streams that may be available.
+• Use an Action which displayes a pop up window with all your live streams that may be available.
 ![image](https://user-images.githubusercontent.com/76603653/185692869-82426ac8-9bad-47f8-9ab9-25090a19e93e.png)
-2) Turn On Auto Connect and it will connect to the any live stream you have available.
+• Turn On Auto Connect and it will connect to the any live stream you have available.
