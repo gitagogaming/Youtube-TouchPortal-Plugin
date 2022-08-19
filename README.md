@@ -18,8 +18,8 @@
         - [SuperSticker Event](#tp.plugin.youtube.superStickerstates)
         - [SuperChat Event](#tp.plugin.youtube.superChatstates)
         - [New Sponsor Event](#tp.plugin.youtube.newSponsorstates)
-  - [Bugs and Support](#bugs-and-suggestion)
   - [FAQ](#faq)
+  - [Bugs and Support](#bugs-and-suggestion)
   
 # Description
 
@@ -214,13 +214,13 @@ Default: <b></b> Possible choices: ['On', 'Off']</li>
 </details>
 
 <br>
-
-# Bugs and Suggestion
-Open an issue on github or join offical [TouchPortal Discord](https://discord.gg/MgxQb8r) for support.
-
 # FAQ
 ### Q) How do I connect?
 **A)** You have two ways to connect to your live streams. 
 • Use an Action which displayes a pop up window with all your live streams that may be available.
 ![image](https://user-images.githubusercontent.com/76603653/185692869-82426ac8-9bad-47f8-9ab9-25090a19e93e.png)
 • Turn On Auto Connect and it will connect to the any live stream you have available.
+
+<br>
+# Bugs and Suggestion
+Open an issue on github or join offical [TouchPortal Discord](https://discord.gg/MgxQb8r) for support.
