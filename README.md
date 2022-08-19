@@ -3,19 +3,15 @@
 - [Youtube Plugin](#Youtube-Plugin)
   - [Description](#description) 
   - [Settings Overview](#Settings-Overview)
-  - [Features](#Features)
+  - [Actions / States / Events](#Features)
     - [Actions](#actions)
         - [YouTube](#tp.plugin.youtube.mainactions)
     - [States](#states)
         - [YouTube](#tp.plugin.youtube.mainstates)
-        - [YT Channel Info](#tp.plugin.youtube.channel_infostates)
-        - [YT Live Stream Info](#tp.plugin.youtube.live_statsstates)
-        - [Chatter 0](#tp.plugin.youtube.chatter0states)
-        - [Chatter 1](#tp.plugin.youtube.chatter1states)
-        - [Chatter 2](#tp.plugin.youtube.chatter2states)
-        - [Chatter 3](#tp.plugin.youtube.chatter3states)
-        - [Chatter 4](#tp.plugin.youtube.chatter4states)
-        - [Chatter 5](#tp.plugin.youtube.chatter5states)
+        - [Channel Details](#tp.plugin.youtube.channel_infostates)
+        - [Live Stream Details](#tp.plugin.youtube.live_statsstates)
+        - [Chatter 0-5 States](#tp.plugin.youtube.chatter0states)
+    - [Events](#events)
         - [SuperSticker Event](#tp.plugin.youtube.superStickerstates)
         - [SuperChat Event](#tp.plugin.youtube.superChatstates)
         - [New Sponsor Event](#tp.plugin.youtube.newSponsorstates)
@@ -151,7 +147,10 @@ Default: <b></b> Possible choices: ['On', 'Off']</li>
 </details>
 
 <details id='tp.plugin.youtube.chatter5states'><summary><b>Category:</b> Chatter 5 <small><ins>(Click to expand)</ins></small></summary>
+</details>
 
+## Events
+<details id='tp.plugin.youtube.mainstates'><summary><b>Category:</b> YouTube <small><ins>(Click to expand)</ins></small></summary>
 
 | Id | Description | DefaultValue | parentGroup |
 | --- | --- | --- | --- |
