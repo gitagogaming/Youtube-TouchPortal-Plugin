@@ -48,22 +48,62 @@ OR
 ## Actions
 <details open id='tp.plugin.youtube.mainactions'><summary><b>Category:</b> YouTube <small><ins>(Click to expand)</ins></small></summary><table>
 <tr valign='buttom'><th>Action Name</th><th>Description</th><th>Format</th><th nowrap>Data<br/><div align=left><sub>choices/default (in bold)</th><th>On<br/>Hold</sub></div></th></tr>
-<tr valign='top'><td>Send Message</td><td> </td><td>Delete Message: [1]</td><td><ol start=1><li>Type: text &nbsp; 
+<tr valign='top'><td>YT | Chat: Send Message</td><td> </td><td>Send Message: [1]</td><td><ol start=1><li>Type: text &nbsp; 
 &lt;empty&gt;</li>
 </ol></td>
 <td align=center>No</td>
-<tr valign='top'><td>TimeOut Chatter</td><td> </td><td>Timeout: [1] for [2] seconds</td><td><ol start=1><li>Type: text &nbsp; 
+<tr valign='top'><td>YT | Chat: Delete Message</td><td> </td><td>Delete MessageID: [1]</td><td><ol start=1><li>Type: text &nbsp; 
+&lt;empty&gt;</li>
+</ol></td>
+<td align=center>No</td>
+<tr valign='top'><td>YT | Chat: TimeOut Chatter</td><td> </td><td>Timeout: [1] for [2] seconds</td><td><ol start=1><li>Type: text &nbsp; 
 &lt;empty&gt;</li>
 <li>Type: text &nbsp; 
 &lt;empty&gt;</li>
 </ol></td>
 <td align=center>No</td>
-<tr valign='top'><td>Select a Live Chat</td><td> </td><td>This action will cause a popup to appear. please select the stream you wish to connect to</td><td><ol start=1><li>Type: text &nbsp; 
+<tr valign='top'><td>YT | Connect: Select a Live Chat</td><td> </td><td>This action will cause a popup to appear. please select the stream you wish to connect to</td><td><ol start=1><li>Type: text &nbsp; 
 &lt;empty&gt;</li>
 </ol></td>
 <td align=center>No</td>
-<tr valign='top'><td>Turn the Auto Connect on or off</td><td> </td><td>Auto Connect [1]</td><td><ol start=1><li>Type: choice &nbsp; 
+<tr valign='top'><td>YT | Connect: Turn the Auto Connect on or off</td><td> </td><td>Auto Connect [1]</td><td><ol start=1><li>Type: choice &nbsp; 
 Default: <b></b> Possible choices: ['On', 'Off']</li>
+</ol></td>
+<td align=center>No</td>
+<tr valign='top'><td>YT | Update: Video Category</td><td> </td><td>Change Category to [1]</td><td><ol start=1><li>Type: choice &nbsp; 
+&lt;empty&gt;</li>
+</ol></td>
+<td align=center>No</td>
+<tr valign='top'><td>YT | Update: Video Title</td><td> </td><td>Change Title to [1]</td><td><ol start=1><li>Type: text &nbsp; 
+&lt;empty&gt;</li>
+</ol></td>
+<td align=center>No</td>
+<tr valign='top'><td>YT | Update: Video Description</td><td> </td><td>Change Description to [1]</td><td><ol start=1><li>Type: text &nbsp; 
+&lt;empty&gt;</li>
+</ol></td>
+<td align=center>No</td>
+<tr valign='top'><td>YT | Update: Video Language</td><td> </td><td>Change Language to to [1]</td><td><ol start=1><li>Type: text &nbsp; 
+&lt;empty&gt;</li>
+</ol></td>
+<td align=center>No</td>
+<tr valign='top'><td>YT | Update: Video Tags</td><td> </td><td>Change Stream Tags to [1]</td><td><ol start=1><li>Type: text &nbsp; 
+&lt;empty&gt;</li>
+</ol></td>
+<td align=center>No</td>
+<tr valign='top'><td>YT | Update: Public Stats Viewable</td><td> </td><td>Change Public Stats Viewable to [1]</td><td><ol start=1><li>Type: choice &nbsp; 
+Default: <b></b> Possible choices: ['True', 'False']</li>
+</ol></td>
+<td align=center>No</td>
+<tr valign='top'><td>YT | Update: Video License</td><td> </td><td>Change video_license to [1]</td><td><ol start=1><li>Type: choice &nbsp; 
+Default: <b></b> Possible choices: ['Creative Common', 'YouTube']</li>
+</ol></td>
+<td align=center>No</td>
+<tr valign='top'><td>YT | Video Privacy</td><td> </td><td>Change Video Privacy to [1]</td><td><ol start=1><li>Type: choice &nbsp; 
+Default: <b></b> Possible choices: ['Public', 'Unlisted', 'Private']</li>
+</ol></td>
+<td align=center>No</td>
+<tr valign='top'><td>YT | Update: isMadeforKids</td><td> </td><td>Change Video Is Made for Kids status to [1]</td><td><ol start=1><li>Type: choice &nbsp; 
+Default: <b></b> Possible choices: ['True', 'False']</li>
 </ol></td>
 <td align=center>No</td>
 </tr></table></details>
