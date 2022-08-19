@@ -56,6 +56,7 @@ Default: <b></b> Possible choices: ['On', 'Off']</li>
 
 ## States
 <details id='tp.plugin.youtube.mainstates'><summary><b>Category:</b> YouTube <small><ins>(Click to expand)</ins></small></summary>
+![image](https://user-images.githubusercontent.com/76603653/185533838-364a1e15-81ae-4a6c-988f-91c6b25717a7.png)
 
 
 | Id | Description | DefaultValue | parentGroup |
