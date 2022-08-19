@@ -4,6 +4,7 @@
 
 - [Youtube Plugin](#Youtube-Plugin)
   - [Description](#description) 
+  - [Install Instructions](#install_instructions)
   - [Settings Overview](#Settings-Overview)
   - [Actions / States / Events](#Features)
     - [Actions](#actions)
@@ -27,6 +28,14 @@ You have two ways to connect to your live streams.
 OR
 
 2) Turn on Auto-Connect and the plugin will automatically connect to any live stream that you have. 
+
+# Install Instructions
+1) Download Plugin -> [Releases](https://github.com/gitagogaming/Youtube-TouchPortal-Plugin/releases)
+2) Install Plugin<br>
+![image](https://user-images.githubusercontent.com/76603653/185694403-57733328-aad6-4e49-a8e5-21cc38b1d532.png)<br>
+3) Set Channel ID inside plugin settings - This is your channel URL ID <br>
+![image](https://user-images.githubusercontent.com/76603653/185694927-cc21345f-9327-46fc-b261-d6857d52012e.png)
+
 
 
 
