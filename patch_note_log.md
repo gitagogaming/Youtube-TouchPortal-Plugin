@@ -1,4 +1,4 @@
-#V1.0.2
+# V1.0.2
 Fixed error when trying to manually connect to a scheduled/live broadcast and there was none
 Fixed error when trying to cancel out of the stream selection window
 Fixed plugin not asking to authenticate for new users
