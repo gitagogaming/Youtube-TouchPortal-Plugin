@@ -5,6 +5,12 @@
 - When trying to connect to a live chat if none are available the popup will now tell you instead of staying silent. 
 
 
+# V1.0.3
+- corrected an issue where if you selected the X button on popup the plugin would crash
+- Released Linux version
+- MacOS is available for testing
+
+
 # V1.0.2
 - Fixed error when trying to manually connect to a scheduled/live broadcast and there was none
 - Fixed error when trying to cancel out of the stream selection window
