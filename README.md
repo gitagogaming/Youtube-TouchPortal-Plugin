@@ -24,17 +24,15 @@
   - [Bugs and Support](#bugs-and-suggestion)
   
 # Description
+Control your YouTube Live stream using TouchPortal on your mobile device
 
-OR
-
-2) Turn on Auto-Connect and the plugin will automatically connect to any live stream that you have. 
 
 # Install Instructions
 1) **Download Plugin** -> [Releases](https://github.com/gitagogaming/Youtube-TouchPortal-Plugin/releases)
 2) **Install Plugin**<br>
 ![image](https://user-images.githubusercontent.com/76603653/185694403-57733328-aad6-4e49-a8e5-21cc38b1d532.png)<br><br>
-3) **Set Channel ID inside plugin settings - This is your channel URL ID** <br>
-![image](https://user-images.githubusercontent.com/76603653/185694927-cc21345f-9327-46fc-b261-d6857d52012e.png)
+3) Accept authorizations[How-To](#Accept-Authorization)<br>
+![witharrowsOKGMGMG (1)](https://user-images.githubusercontent.com/76603653/186208322-cd40c5b6-77f4-46c8-b0a8-b036a914fa16.jpg)<br><br>
 
 
 
@@ -262,7 +260,8 @@ A) You have two ways to connect to your live streams. <br>
   1) Use an Action which displayes a pop up window with all your live streams that may be available.<br>
   ![image](https://user-images.githubusercontent.com/76603653/185692869-82426ac8-9bad-47f8-9ab9-25090a19e93e.png)<br>
   2) Turn On Auto Connect and it will connect to the any live stream you have available.<br>
-
+ 
+ # How-To
 
 # Bugs and Suggestion
 Open an issue on github or join offical [TouchPortal Discord](https://discord.gg/MgxQb8r) for support.
