@@ -29,7 +29,7 @@ Control your YouTube Live stream using TouchPortal on your mobile device
 
 # Install Instructions
 1) **Download Plugin** -> [Releases](https://github.com/gitagogaming/Youtube-TouchPortal-Plugin/releases)
-2) **Install Plugin** -> [How-To](https://www.touch-portal.com/blog/post/tutorials/import-plugin-guide.php#:~:text=Importing%20a%20plugin%20file&text=A%20Touch%20Portal%20plug-in%20file%20has%20the%20.,icon%20in%20the%20system%20tray.)<br>
+2) **Install Plugin** -> [How-To](https://www.touch-portal.com/blog/post/tutorials/import-plugin-guide.php#:~:text=Importing%20a%20plugin%20file&text=A%20Touch%20Portal%20plug-in%20file%20has%20the%20.,icon%20in%20the%20system%20tray.){:target="_blank" rel="noopener"}<br>
 3) **Accept Authorizations** -> [How-To](#Accept-Authorization)<br>
 
 
