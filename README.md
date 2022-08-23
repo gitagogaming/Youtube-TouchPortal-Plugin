@@ -261,7 +261,7 @@ A) You have two ways to connect to your live streams. <br>
   ![image](https://user-images.githubusercontent.com/76603653/185692869-82426ac8-9bad-47f8-9ab9-25090a19e93e.png)<br>
   2) Turn On Auto Connect and it will connect to the any live stream you have available.<br>
  
- # How-To
+ # Accept Authorization
 
 # Bugs and Suggestion
 Open an issue on github or join offical [TouchPortal Discord](https://discord.gg/MgxQb8r) for support.
