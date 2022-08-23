@@ -1,3 +1,10 @@
+# V1.0.4
+Fixed Choice Update List Updating improperly for category choices
+Renamed some state descriptions - Nothing needs changed on the user side.
+Fixed plugin crash due to emojis in channel or video description
+When trying to connect to a live chat if none are available the popup will now tell you instead of staying silent. 
+
+
 # V1.0.2
 Fixed error when trying to manually connect to a scheduled/live broadcast and there was none
 Fixed error when trying to cancel out of the stream selection window
