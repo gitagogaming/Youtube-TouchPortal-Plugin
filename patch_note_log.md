@@ -1,3 +1,7 @@
+# V1.0.5
+- Slight revamp of Stream Selection Popup to make it easier to read
+- When no broadcsts are available you will now have the option to open a browser to create one manually
+
 # V1.0.4
 - Fixed Choice Update List Updating improperly for category choices
 - Renamed some state descriptions - Nothing needs changed on the user side.
