@@ -21,7 +21,7 @@
         - [SuperChat Event](#tp.plugin.youtube.superChatstates)
         - [New Sponsor Event](#tp.plugin.youtube.newSponsorstates)
   - [FAQ](#faq)
-  - [Terms of Service](#terms of Service)
+  - [Terms of Service](#terms-of-service)
   - [Bugs and Support](#bugs-and-suggestion)
   
 # Description
