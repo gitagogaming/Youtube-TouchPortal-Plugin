@@ -263,5 +263,35 @@ A) You have two ways to connect to your live streams. <br>
  # Accept Authorization
  ![witharrowsOKGMGMG (1)](https://user-images.githubusercontent.com/76603653/186208322-cd40c5b6-77f4-46c8-b0a8-b036a914fa16.jpg)<br><br>
 
+
+# Terms of Service
+
+By using the YouTube Live integration created by Gitago, you are agreeing to be bound by the following terms and conditions ("Terms of Service").
+
+If the owner makes changes to these Terms, we will post a notice within the TouchPortal Discord [channel specified](https://discord.com/channels/548426182698467339/1010166073229836340/1010378470649503794) and on the [Github Project Page](https://github.com/gitagogaming/Youtube-TouchPortal-Plugin/) before the changes become effective. Any new plugin features added in the future that augment or enhance the current Service shall be subject to the Terms of Service. Continued use of the Service after any such changes shall constitute your consent to such changes.
+
+Violation of any of the terms below will result in the termination of your Account. 
+You agree to use the Service at your own risk.
+  - You must be thirteen (13) years or older to use this Service.
+  - You are responsible for maintaining the security of your account and specifically your refresh token.  We cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
+	
+  
+Users may access the integration by using TouchPortal. Any use of this integration is bound by these Terms of Service, Youtube’s [Terms of Service](https://www.youtube.com/t/terms), plus the following specific terms:
+
+- You expressly understand and agree that we shall not be liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses, resulting from your use of the integration.
+- We reserve the right at any time to modify or discontinue, temporarily or permanently, your access to the integration (or any part thereof) with or without notice.
+- Your use of the Service is at your sole risk. The service is provided on an “as is” and “as available” basis.
+- If your quota usage significantly exceeds the average quota usage of other TouchPortal users, we reserve the right to throttle your API requests until you can reduce your quota consumption.
+- We do not and can not warrant that (i) the service will meet your specific requirements, (ii) the service will be uninterrupted, timely, secure, or error-free, (iii) the results that may be obtained from the use of the service will be accurate or reliable, (iv) the quality of any products, services, information, or other material purchased or obtained by you through the service will meet your expectations, and (v) any errors in the Service will be corrected.
+- You understand and agree that we shall not be liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses. The failure to exercise or enforce any right or provision of the Terms of Service shall not constitute a waiver of such right or provision.
+
+- Questions about the Terms of Service should be sent to gitagogaming@gmail.com.
+
+
+Any information you provide to us during the Authorization process will be only used to generate your YouTube Live credentials.
+Your credentials are only ever stored locally on your computer in the plugin directory which is accessed by the plugin as needed. TouchPortal and this YouTube integration do not store or share your YouTube Live credentials.
+Any other information regarding your YouTube account is only ever accesssed and stored locally on your computer. 
+Please see Google Privacy Policy for more details
+
 # Bugs and Suggestion
 Open an issue on github or join offical [TouchPortal Discord](https://discord.gg/MgxQb8r) for support.
