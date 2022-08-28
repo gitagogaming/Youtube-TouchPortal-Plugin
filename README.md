@@ -21,6 +21,7 @@
         - [SuperChat Event](#tp.plugin.youtube.superChatstates)
         - [New Sponsor Event](#tp.plugin.youtube.newSponsorstates)
   - [FAQ](#faq)
+  - [Terms of Service](#Terms of Service)
   - [Bugs and Support](#bugs-and-suggestion)
   
 # Description
@@ -276,7 +277,7 @@ You agree to use the Service at your own risk.
   - You are responsible for maintaining the security of your account and specifically your refresh token.  We cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
 	
   
-Users may access the integration by using TouchPortal. Any use of this integration is bound by these Terms of Service, Youtube’s [Terms of Service](https://www.youtube.com/t/terms), plus the following specific terms:
+Users may access the integration by using TouchPortal. Any use of this integration is bound by these Terms of Service, [Youtube's Terms of Service](https://www.youtube.com/t/terms), plus the following specific terms:
 
 - You expressly understand and agree that we shall not be liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses, resulting from your use of the integration.
 - We reserve the right at any time to modify or discontinue, temporarily or permanently, your access to the integration (or any part thereof) with or without notice.
@@ -285,8 +286,8 @@ Users may access the integration by using TouchPortal. Any use of this integrati
 - We do not and can not warrant that (i) the service will meet your specific requirements, (ii) the service will be uninterrupted, timely, secure, or error-free, (iii) the results that may be obtained from the use of the service will be accurate or reliable, (iv) the quality of any products, services, information, or other material purchased or obtained by you through the service will meet your expectations, and (v) any errors in the Service will be corrected.
 - You understand and agree that we shall not be liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses. The failure to exercise or enforce any right or provision of the Terms of Service shall not constitute a waiver of such right or provision.
 
-- Questions about the Terms of Service should be sent to gitagogaming@gmail.com.
 
+Questions about the Terms of Service should be sent to gitagogaming@gmail.com.
 
 Any information you provide to us during the Authorization process will be only used to generate your YouTube Live credentials.
 Your credentials are only ever stored locally on your computer in the plugin directory which is accessed by the plugin as needed. TouchPortal and this YouTube integration do not store or share your YouTube Live credentials.
