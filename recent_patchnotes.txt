@@ -1,6 +1,6 @@
 V1.0.4 Update Notes
-• Fixed Choice Update List Updating improperly for category choices
-•  Renamed some state descriptions - Nothing needs changed on the user side.
-•  Fixed plugin crash due to emojis in channel or video description
-•  When trying to connect to a live chat if none are available the popup will now tell you instead of staying silent. 
+Fixed Choice Update List Updating improperly for category choices
+Renamed some state descriptions - Nothing needs changed on the user side.
+Fixed plugin crash due to emojis in channel or video description
+When trying to connect to a live chat if none are available the popup will now tell you instead of staying silent. 
 
