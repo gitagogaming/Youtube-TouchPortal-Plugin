@@ -1,3 +1,3 @@
-V1.0.5 Update Notes
-Revamp of Stream Selection Popup to make it easier to read
-When no broadcasts are available you will now have the option to open the YT Studio Stream Manager
+V1.0.6 Update Notes
+Fixed issue causing Select a Broadcast action to not work properly
+Please Update
