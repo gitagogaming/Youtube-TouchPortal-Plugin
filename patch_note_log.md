@@ -1,3 +1,6 @@
+V1.0.6
+- Fixed issue causing Select a Broadcast action to not work properly
+
 # V1.0.5
 - Slight revamp of Stream Selection Popup to make it easier to read
 - When no broadcsts are available you will now have the option to open a browser to create one manually
