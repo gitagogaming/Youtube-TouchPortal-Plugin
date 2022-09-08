@@ -258,7 +258,7 @@ Default: <b></b> Possible choices: ['True', 'False']</li>
 Q) How do I connect?<br>
 A) You have two ways to connect to your live streams. <br>
   1) Use an Action which displayes a pop up window with all your live streams that may be available.<br>
-  ![image](https://user-images.githubusercontent.com/76603653/185692869-82426ac8-9bad-47f8-9ab9-25090a19e93e.png)<br>
+  ![image](https://user-images.githubusercontent.com/76603653/189020404-2c8bf9fd-f1e5-4bc1-8b6f-8db1af48f0ea.png)<br>
   2) Turn On Auto Connect and it will connect to the any live stream you have available.<br>
  
  # Accept Authorization
