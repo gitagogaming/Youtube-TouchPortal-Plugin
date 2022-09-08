@@ -1,4 +1,13 @@
-V1.0.6
+# V1.1.0
+- Create New Broadcast (You may save a template for future use)
+- Moved Select Live Stream to the Create New Broadcast Pop-Up
+- Delete Broadcast is available also in this new GUI
+- Save + Load Presets for Broadcasts
+- Change Video Thumbnail (Use this if you decide to change games during your multi hour live stream)
+- Removed the setting for 'auto connect' - The action is **still there** but not the "in the plugin settings"
+
+
+# V1.0.6
 - Fixed issue causing Select a Broadcast action to not work properly
 
 # V1.0.5
