@@ -1,3 +1,9 @@
+# V1.1.1
+- Fixed Multiple chatter states being incorrectly labeled 
+- States Removed - `.state.Chatter_2.profile_image` 
+- States Added / Modified - `.state.Chatter_2.profile_image.url` and  `.state.Chatter_2.profile_image.icon`
+- New Chatter States added for isVerified, IsChatSponsor and IsChatModerator
+
 # V1.1.0
 - Create New Broadcast (You may save a template for future use)
 - Moved Select Live Stream to the Create New Broadcast Pop-Up
@@ -5,7 +11,6 @@
 - Save + Load Presets for Broadcasts
 - Change Video Thumbnail (Use this if you decide to change games during your multi hour live stream)
 - Removed the setting for 'auto connect' - The action is **still there** but not the "in the plugin settings"
-
 
 # V1.0.6
 - Fixed issue causing Select a Broadcast action to not work properly
