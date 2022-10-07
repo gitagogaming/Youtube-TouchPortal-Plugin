@@ -295,9 +295,9 @@ Any other information regarding your YouTube account is only ever accesssed and 
 Please see Google Privacy Policy for more details
 
 
-# Project Sponsors
-TwitchPlaysSpeedruns - [YouTube](https://www.youtube.com/channel/UC-fdolKYXrjwEv6NmXFC76g) / [Twitch](https://www.youtube.com/channel/UC-fdolKYXrjwEv6NmXFC76g)
-
-
 # Bugs and Suggestion
 Open an issue on github or join offical [TouchPortal Discord](https://discord.gg/MgxQb8r) for support.
+
+<br> <br>
+# Project Sponsors
+TwitchPlaysSpeedruns - [YouTube](https://www.youtube.com/channel/UC-fdolKYXrjwEv6NmXFC76g) / [Twitch](https://www.youtube.com/channel/UC-fdolKYXrjwEv6NmXFC76g)
