@@ -296,7 +296,7 @@ Please see Google Privacy Policy for more details
 
 
 # Project Sponsors
-TwitchPlaysSpeedruns [YouTube](https://www.youtube.com/channel/UC-fdolKYXrjwEv6NmXFC76g) / [Twitch](https://www.youtube.com/channel/UC-fdolKYXrjwEv6NmXFC76g)
+TwitchPlaysSpeedruns - [YouTube](https://www.youtube.com/channel/UC-fdolKYXrjwEv6NmXFC76g) / [Twitch](https://www.youtube.com/channel/UC-fdolKYXrjwEv6NmXFC76g)
 
 
 # Bugs and Suggestion
