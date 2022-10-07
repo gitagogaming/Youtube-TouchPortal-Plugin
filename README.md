@@ -300,4 +300,4 @@ Open an issue on github or join offical [TouchPortal Discord](https://discord.gg
 
 <br> <br>
 # Project Sponsors
-TwitchPlaysSpeedruns - [YouTube](https://www.youtube.com/channel/UC-fdolKYXrjwEv6NmXFC76g) / [Twitch](https://www.youtube.com/channel/UC-fdolKYXrjwEv6NmXFC76g)
+TwitchPlaysSpeedruns - [YouTube](https://www.youtube.com/channel/UC-fdolKYXrjwEv6NmXFC76g) / [Twitch](https://www.twitch.tv/twitchplaysspeedruns)
