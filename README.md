@@ -23,6 +23,7 @@
   - [FAQ](#faq)
   - [Terms of Service](#terms-of-service)
   - [Bugs and Support](#bugs-and-suggestion)
+  - [Project Sponsors](#project-sponsors)
   
 # Description
 Control your YouTube Live stream using TouchPortal on your mobile device
@@ -292,6 +293,11 @@ Any information you provide to us during the Authorization process will be only 
 Your credentials are only ever stored locally on your computer in the plugin directory which is accessed by the plugin as needed. TouchPortal and this YouTube integration do not store or share your YouTube Live credentials.
 Any other information regarding your YouTube account is only ever accesssed and stored locally on your computer. 
 Please see Google Privacy Policy for more details
+
+
+# Project Sponsors
+TwitchPlaysSpeedruns [YouTube](https://www.youtube.com/channel/UC-fdolKYXrjwEv6NmXFC76g) [Twitch](https://www.youtube.com/channel/UC-fdolKYXrjwEv6NmXFC76g)
+
 
 # Bugs and Suggestion
 Open an issue on github or join offical [TouchPortal Discord](https://discord.gg/MgxQb8r) for support.
