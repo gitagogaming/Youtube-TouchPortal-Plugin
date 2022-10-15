@@ -1,3 +1,8 @@
+# V1.1.2
+- Fixed an issue where plugin would not start properly or may stop working unexpectedly
+- Removed the need for images from asset folder as they were causing an issue for some people when selecting a broadcast
+  They are now stored permanently in the plugin as a Base64 String.
+
 # V1.1.1
 - Fixed Multiple chatter states being incorrectly labeled 
 - States Removed - `.state.Chatter_2.profile_image` 
