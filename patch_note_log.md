@@ -1,3 +1,12 @@
+# V1.1.3
+- added in disconnect action
+- added in new subscriber event(checks every 60 seconds currently)
+- Fixed issue with selecting a live chat where it was not correctly connecting to the desired chat
+- Fixed issue with selecting a live stream when it was not pre-scheduled
+- Fixed Select a Broadcast Action - It now has choice selections
+- Fixed some issues with auto-connect
+- Fixed shutdown error
+
 # V1.1.2
 - Fixed an issue where plugin would not start properly or may stop working unexpectedly
 - Removed the need for images from asset folder as they were causing an issue for some people when selecting a broadcast
