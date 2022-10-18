@@ -1,5 +1,5 @@
 
-# Youtube Live Plugin - Created for TouchPortal
+# YouTube Live Plugin - Created for TouchPortal
 
 ![progreesss (1)](https://user-images.githubusercontent.com/76603653/185826537-0eff3ffd-d6ee-485d-bee4-e4724b4ed07f.jpg)
 
