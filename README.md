@@ -290,7 +290,7 @@ Users may access the integration by using TouchPortal. Any use of this integrati
 Questions about the Terms of Service should be sent to gitagogaming@gmail.com.
 
 Any information you provide to us during the Authorization process will be only used to generate your YouTube Live credentials.
-Your credentials are only ever stored locally on your computer in the plugin directory which is accessed by the plugin as needed. TouchPortal and this YouTube integration do not store or share your YouTube Live credentials.
+Your credentials are only ever stored locally on your computer in the plugin directory which is accessed by the plugin as needed. TouchPortal and this YouTube integration do not store or share your YouTube Live credentials or any other data with outside entities.
 Any other information regarding your YouTube account is only ever accesssed and stored locally on your computer. 
 Please see [Google Privacy Policy](https://policies.google.com/privacy) for more details
 
